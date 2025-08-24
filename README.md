@@ -37,4 +37,4 @@ This project showcases **Object-Oriented Programming (OOP)** concepts, **Data St
    ```bash
    g++ -std=c++17 student_mgmt.cpp -o student_mgmt
 3.Run the executable:
-Run the executable
+student_mgmt.exe 
